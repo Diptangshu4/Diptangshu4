@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diptangshu bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptangshu bhattacharjee" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/diptangshu bhattacharjee](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJnWfNFx3QIi%2FOYE0PcOpMw%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptangshu bhattacharjee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/diptangshu bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diptangshu bhattacharjee" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@diptangshu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@diptangshu4" height="30" width="40" /></a>
 </p>
