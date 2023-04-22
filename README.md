@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/diptangshu-bhattacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptangshu bhattacharjee" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14717921/diptangshu-bhattacharjee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="diptangshu bhattacharjee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@diptangshu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@diptangshu4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/diptangshu4?h_r=internal-search&hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@diptangshu4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
