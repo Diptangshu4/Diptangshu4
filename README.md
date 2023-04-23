@@ -1,3 +1,4 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Diptangshu Bhattacharjee</h1>
 <h3 align="center">A code connoisseur crafting innovations</h3>
 
