@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Diptangshu4/Diptangshu4/blob/main/Brown%20and%20Grey%20Minimalist%20Designer%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Diptangshu Bhattacharjee</h1>
 <h3 align="center">A code connoisseur crafting innovations</h3>
 
