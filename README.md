@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptangshu4&label=Profile%20views&color=0e75b6&style=flat" alt="diptangshu4" /> </p>
 
-- 🔭 I’m currently working on **BMI_Calculator**
+- 🔭 I’m currently working on **Learning React**
 
 - 🌱 I’m currently learning **Flutter**
 
